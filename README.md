@@ -1,9 +1,7 @@
-👋 Hi, I’m @TheDarven
+👋 Hi, I’m @TheDarven, a software engineer
 
-🎓 I'm studying computer science at Ensimag
-
-🔧 I'm working at Axopen
+🎓 I studied computer science at Ensimag
 
 👀 You can find out more about me here : https://www.lucasgeoffroy.fr/
 
-Look at my projects on [my Gitlab account](https://gitlab.com/TheDarven)
+Look at my others projects on [my Gitlab account](https://gitlab.com/TheDarven)
