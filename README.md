@@ -1,4 +1,4 @@
-👋 Hi, I’m @TheDarven, a software engineer
+👋 Hi, I’m @TheDarven, a software developer at Indy
 
 🎓 I studied computer science at Ensimag
 
